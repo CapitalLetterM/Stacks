@@ -1,0 +1,10 @@
+C:\Users\Lenovo-PC\source\repos\Stacks_2023\Stacks_5\Stacks_5\bin\Debug\Stacks_5.exe.config
+C:\Users\Lenovo-PC\source\repos\Stacks_2023\Stacks_5\Stacks_5\bin\Debug\Stacks_5.exe
+C:\Users\Lenovo-PC\source\repos\Stacks_2023\Stacks_5\Stacks_5\bin\Debug\Stacks_5.pdb
+C:\Users\Lenovo-PC\source\repos\Stacks_2023\Stacks_5\Stacks_5\obj\Debug\Stacks_5.csprojAssemblyReference.cache
+C:\Users\Lenovo-PC\source\repos\Stacks_2023\Stacks_5\Stacks_5\obj\Debug\Stacks_5.Form1.resources
+C:\Users\Lenovo-PC\source\repos\Stacks_2023\Stacks_5\Stacks_5\obj\Debug\Stacks_5.Properties.Resources.resources
+C:\Users\Lenovo-PC\source\repos\Stacks_2023\Stacks_5\Stacks_5\obj\Debug\Stacks_5.csproj.GenerateResource.cache
+C:\Users\Lenovo-PC\source\repos\Stacks_2023\Stacks_5\Stacks_5\obj\Debug\Stacks_5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo-PC\source\repos\Stacks_2023\Stacks_5\Stacks_5\obj\Debug\Stacks_5.exe
+C:\Users\Lenovo-PC\source\repos\Stacks_2023\Stacks_5\Stacks_5\obj\Debug\Stacks_5.pdb
